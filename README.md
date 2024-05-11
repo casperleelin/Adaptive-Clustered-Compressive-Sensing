@@ -26,3 +26,5 @@ The source codes of this algorithm is located at "ClusteredCompressiveSensing" f
 
 Fig 3. Reconstructed Armadillo Point Cloud. (A) Reconstructed point cloud using non-clustered compressive sensing. (B) Reconstructed point cloud using ours. (C)
 Reconstructed point cloud using GMM CCS. (D) Reconstructed point cloud using Sli-based CCS. (E) Reconstructed point cloud using CH-based CCS. (F) Reconstructed point cloud using DB-based CCS.
+
+You can directly run "TestOnArmadillo.m" to implement the clustered compressive sensing, which the sparsity is 0.35, and the sample ratio is 0.4.
